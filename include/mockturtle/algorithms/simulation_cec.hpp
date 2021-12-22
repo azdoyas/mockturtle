@@ -86,7 +86,7 @@ private:
   /* you can add other attributes here */
 };
 
-} // namespace detail
+} // namespace de
 
 /* Entry point for users to call */
 
